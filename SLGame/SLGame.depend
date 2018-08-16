@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497160042 source:g:\cb\slgame\main.c
+	<stdio.h>
+	<stdlib.h>
+
