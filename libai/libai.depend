@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496556337 source:g:\cb-lg\libai\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
