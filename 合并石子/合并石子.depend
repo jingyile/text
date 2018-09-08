@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508568854 source:c:\users\administrator\desktop\10.14\合并石子\main.c
+	<stdio.h>
+	<string.h>
+
+1508768933 source:c:\users\administrator\desktop\10.14\合并石子\main.cpp
+	<iostream>
+	<memory.h>
+
